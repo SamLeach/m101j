@@ -4,11 +4,15 @@
 
 #####Question 1
 
-*The number of messages from andrew.fastow@enron.com to jeff.skilling@enron.com is "3"*
+```javascript
+"The number of messages from andrew.fastow@enron.com to jeff.skilling@enron.com is 3"
+```
 
 #####Question 2
 
-*The pair of people who have the greatest number of messages are "susan.mara@enron.com to jeff.dasovich@enron.com"*
+```javascript
+"The pair of people who have the greatest number of messages are susan.mara@enron.com to jeff.dasovich@enron.com"
+```
 
 #####Question 3
 
