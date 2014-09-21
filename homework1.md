@@ -7,9 +7,9 @@
 #####Homework 1.2
 
 ```javascript
-{“title”:”Star Wars”, “quotes”:[“Use The Force”,”These are not the Droids you are looking for”],”director”:”George Lucas”} 
+{"title":"Star Wars", "quotes":["Use The Force","These are not the Droids you are looking for"],"director":"George Lucas"} 
 {}
-{“a”:1, “b”:{“b”:1, “c”:”foo”, “d”:”bar”, “e”:[1,2,4]}}
+{"a":1, "b":{"b":1, "c":"foo", "d":"bar", "e":[1,2,4]}}
 ```
 
 
