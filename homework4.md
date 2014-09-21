@@ -1,4 +1,4 @@
-#####Homework 4.1:
+#####Homework 4.1
 
 ```javascript
 db.products.find({'brand':"GE"}).sort({price:1})
@@ -6,7 +6,7 @@ db.products.find({'brand':"GE"}).sort({price:1})
 db.products.find({$and:[{price:{$gt:30}},{price:{$lt:50}}]}).sort({brand:1})
 ```
 
-#####Homework 4.2:
+#####Homework 4.2
 
 ```javascript
 "This query performs a collection scan."
@@ -16,13 +16,13 @@ db.products.find({$and:[{price:{$gt:30}},{price:{$lt:50}}]}).sort({brand:1})
 "The query visits 46462 documents."
 ```
 
-#####Homework 4.3:
+#####Homework 4.3
 
 ```javascript
 "MongoProc"
 ```
 
-#####Homework 4.4:
+#####Homework 4.4
 
 ```javascript
 15820
