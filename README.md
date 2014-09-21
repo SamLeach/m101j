@@ -7,6 +7,6 @@ MongoDB University does not store your answers to Quizes, Homework or Final Exam
 
 I am storing my answers here due to the above reason.
 
-Class started: Aug 05, 2014
+######Class started: Aug 05, 2014
 
-Note: MongoDB University change the answers slightly so please don't copy these answers
+######Note: MongoDB University change the answers slightly so please don't copy these answers
