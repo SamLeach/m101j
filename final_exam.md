@@ -5,19 +5,20 @@
 #####Question 1
 
 ```javascript
-"The number of messages from andrew.fastow@enron.com to jeff.skilling@enron.com is "3""
+The number of messages from andrew.fastow@enron.com to jeff.skilling@enron.com is "3"
 ```
 
 #####Question 2
 
 ```javascript
-"The pair of people who have the greatest number of messages are "susan.mara@enron.com to jeff.dasovich@enron.com""
+The pair of people who have the greatest number of messages are "susan.mara@enron.com to jeff.dasovich@enron.com"
 ```
 
 #####Question 3
 
 ```javascript
 db.messages.update({"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"},{$addToSet:{"headers.To":"mrpotatohead@10gen.com"}})
+```
 
 #####Question 4
 
