@@ -1,17 +1,17 @@
-#####Homework 3.1:
+#####Homework 3.1
 
 ```javascript
 13
 ```
 
-#####Homework 3.2:
+#####Homework 3.2
 
 ```javascript
-MongoProc
+"MongoProc"
 ```
 
-#####Homework 3.3:
+#####Homework 3.3
 
 ```javascript
-MongoProc
+"MongoProc"
 ```
