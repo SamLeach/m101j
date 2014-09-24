@@ -20,7 +20,7 @@
 
 #####Question 3
 
-############Same question and answer as M101JS but the email address is @10gen.com vs @mongodb.com
+######Same question and answer as M101JS but the email address is @10gen.com vs @mongodb.com
 
 ```javascript
 db.messages.update({"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"},{$addToSet:{"headers.To":"mrpotatohead@10gen.com"}})
