@@ -4,17 +4,23 @@
 
 #####Question 1
 
+######Same question and answer as M101JS
+
 ```javascript
-"The number of messages from andrew.fastow@enron.com to jeff.skilling@enron.com is 3"
+"3"
 ```
 
 #####Question 2
 
+######Same question and answer as M101JS
+
 ```javascript
-"The pair of people who have the greatest number of messages are susan.mara@enron.com to jeff.dasovich@enron.com"
+"susan.mara@enron.com to jeff.dasovich@enron.com"
 ```
 
 #####Question 3
+
+############Same question and answer as M101JS but the email address is @10gen.com vs @mongodb.com
 
 ```javascript
 db.messages.update({"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"},{$addToSet:{"headers.To":"mrpotatohead@10gen.com"}})
@@ -36,6 +42,8 @@ to
 
 #####Question 5
 
+######Same question and answer as M101JS
+
 ```javascript
 "a_1_b_1"
 "a_1_c_1"
@@ -45,12 +53,16 @@ to
 
 #####Question 6
 
+######Same question and answer as M101JS
+
 ```javascript
 "Remove all indexes from the collection, leaving only the index on _id in place"
 "Set w=0, j=0 on writes"
 ```
 
 #####Question 7
+
+######Same question but different answer to M101JS
 
 ```javascript
 44,787
@@ -64,11 +76,15 @@ to
 
 #####Question 9
 
+######Same question and answer as M101JS
+
 ```javascript
 "patient_id"
 ```
 
 #####Question 10
+
+######Same question and answer as M101JS
 
 ```javascript
 "The query did not utilize an index to figure out which documents match the find criteria."
